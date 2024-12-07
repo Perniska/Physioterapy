@@ -1,6 +1,6 @@
 
 export default {
-  basePath: '/Physioterapy/',
+  basePath: 'https://perniska.github.io/Physioterapy/',
   entryPoints: {
     '': () => import('./main.server.mjs')
   },

@@ -3,7 +3,7 @@ export default `<!DOCTYPE html>
   <head>
     <meta charset="utf-8">
     <title>Physioterapy</title>
-    <base href="/Physioterapy/">
+    <base href="https://perniska.github.io/Physioterapy/">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="icon" type="image/x-icon" href="favicon.ico">
     <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css" integrity="sha384-AYmEC3Yw5cVb3ZcuHtOA93w35dYTsvhLPVnYs9eStHfGJvOvKxVfELGroGkvsg+p" crossorigin="anonymous">
