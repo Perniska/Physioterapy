@@ -1,6 +1,6 @@
 
 export default {
-  basePath: '/',
+  basePath: '/Physioterapy/',
   entryPoints: {
     '': () => import('./main.server.mjs')
   },

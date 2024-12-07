@@ -1,9 +1,9 @@
 {
   "routes": {
-    "/": {},
-    "/dashboard": {},
-    "/pages": {},
-    "/products": {},
-    "/settings": {}
+    "/Physioterapy": {},
+    "/Physioterapy/dashboard": {},
+    "/Physioterapy/pages": {},
+    "/Physioterapy/products": {},
+    "/Physioterapy/settings": {}
   }
 }
